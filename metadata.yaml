@@ -1,4 +1,5 @@
 _repo: The-Westward-Movement-Century-Readings-in-United-States-History_46513
+_version: 0.1.0
 contributor:
   creator:
     editor: &id001
@@ -7,12 +8,12 @@ contributor:
       url: http://www.gutenberg.org/2009/agents/43824
 covers:
 - cover_type: archival
-  image_path: 46513/46513-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46513-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46513#The-Westward-Movement-Century-Readings-in-United-States-History
 gutenberg_issued: '2014-08-05'
 gutenberg_type: Text
 identifiers:
